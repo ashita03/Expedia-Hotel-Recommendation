@@ -19,7 +19,7 @@
 - Train & Testing
 
 ## Results
-
+![Results](https://github.com/ashita03/Expedia-Hotel-Recommendation/blob/main/images/results.jpg)
 
 
 
